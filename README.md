@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Tuấn
 
-<!--
-**Tuna-Tran-project/Tuna-Tran-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ASIC RTL / FPGA Design — Verilog & SystemVerilog**
+IC Design student with hands-on RTL design and verification on both ASIC flows and FPGA prototyping. I like clean RTL, readable testbenches, and reproducible CI flows.
 
-Here are some ideas to get you started:
+* 🧪 **Verification:** Verilator, waveform debug with GTKWave
+* 🧰 **Tools:** **Cadence** (Xcelium, Genus, Conformal LEC), **Quartus**, Gowin EDA, ModelSim, **Icarus**.
+* 🔌 **Buses/Protocols:** **AXI4**, **APB4**, QSPI, **UART**
+* 🦕 **Languages:** **Verilog/SystemVerilog**, Python, Tcl,(some C/C++)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills Snapshot
+
+* **RTL & Verification:** Verilog, SystemVerilog, cocotb, Verilator, ModelSim, Icarus, GTKWave
+* **EDA & Flows:** Cadence Xcelium / Genus / Conformal LEC, Intel Quartus, Gowin EDA, LibreLane (basic)
+* **Buses & Protocols:** AXI4, APB4, QSPI, UART
+* **Scripting & Dev:** Python, Tcl, Bash; Make; Git/GitHub
+
+---
+
+## Now / Open To
+
+* **Roles:** ASIC RTL, Design Verification, FPGA/SoC Engineering (intern/new grad)
+* **Location:** Ho Chi Minh City • Remote (APAC friendly)
+* **Interests:** Memory-mapped peripherals, bus fabrics (AXI/APB), verification CI, lightweight DMA/XIP designs
